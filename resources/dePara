@@ -1,0 +1,9 @@
+\n(-*-) 
+(?<=((\s)|(^)))([k]{2,})(?=(($)|(\s)))(-*-)kkk
+(?<=((\s)|(^)))(caixa 2)(?=(($)|(\s)))(-*-)caixadois
+(?<=((\s)|(^)))(caixa dois)(?=(($)|(\s)))(-*-)caixadois
+(?<=((\s)|(^)))(nd)(?=(($)|(\s)))(-*-)nada
+(?<=((\s)|(^)))(leite)(?=(($)|(\s)))(-*-)eduardo_leite
+(?<=((\s)|(^)))(@eduardoleite_)(?=(($)|(\s)))(-*-)eduardo_leite
+(?<=((\s)|(^)))(leite)(?=(($)|(\s)))(-*-)eduardo_leite
+(?<=((\s)|(^)))(porto alegre)(?=(($)|(\s)))(-*-)porto_alegre
