@@ -3,7 +3,9 @@
 (?<=((\s)|(^)))(caixa 2)(?=(($)|(\s)))(-*-)caixadois
 (?<=((\s)|(^)))(caixa dois)(?=(($)|(\s)))(-*-)caixadois
 (?<=((\s)|(^)))(nd)(?=(($)|(\s)))(-*-)nada
+(?<=((\s)|(^)))(eduardo leite)(?=(($)|(\s)))(-*-)eduardo_leite
 (?<=((\s)|(^)))(leite)(?=(($)|(\s)))(-*-)eduardo_leite
 (?<=((\s)|(^)))(@eduardoleite_)(?=(($)|(\s)))(-*-)eduardo_leite
 (?<=((\s)|(^)))(leite)(?=(($)|(\s)))(-*-)eduardo_leite
 (?<=((\s)|(^)))(porto alegre)(?=(($)|(\s)))(-*-)porto_alegre
+(?<=((\s)|(^)))(poa)(?=(($)|(\s)))(-*-)porto_alegre
