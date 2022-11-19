@@ -1,11 +1,38 @@
-\n(-*-) 
 (?<=((\s)|(^)))([k]{2,})(?=(($)|(\s)))(-*-)kkk
+(?<=((\s)|(^)))(md)([s]{1,})(?=((($)|(\s))))(-*-)meu_deus
 (?<=((\s)|(^)))(caixa 2)(?=(($)|(\s)))(-*-)caixadois
 (?<=((\s)|(^)))(caixa dois)(?=(($)|(\s)))(-*-)caixadois
 (?<=((\s)|(^)))(nd)(?=(($)|(\s)))(-*-)nada
 (?<=((\s)|(^)))(eduardo leite)(?=(($)|(\s)))(-*-)eduardo_leite
+(?<=((\s)|(^)))(dudu)(?=(($)|(\s)))(-*-)eduardo_leite
 (?<=((\s)|(^)))(leite)(?=(($)|(\s)))(-*-)eduardo_leite
+(?<=((\s)|(^)))(eduardo)(?=(($)|(\s)))(-*-)eduardo_leite
+(?<=((\s)|(^)))(dudu milk)(?=(($)|(\s)))(-*-)eduardo_leite
+(?<=((\s)|(^)))(milk)(?=(($)|(\s)))(-*-)eduardo_leite
+(?<=((\s)|(^)))(dudu)(?=(($)|(\s)))(-*-)eduardo_leite
 (?<=((\s)|(^)))(@eduardoleite_)(?=(($)|(\s)))(-*-)eduardo_leite
-(?<=((\s)|(^)))(leite)(?=(($)|(\s)))(-*-)eduardo_leite
+(?<=((\s)|(^)))(onyx lorenzoni)(?=(($)|(\s)))(-*-)onyx_lorenzoni
+(?<=((\s)|(^)))(onyx)(?=(($)|(\s)))(-*-)onyx_lorenzoni
+(?<=((\s)|(^)))(lorenzoni)(?=(($)|(\s)))(-*-)onyx_lorenzoni
+(?<=((\s)|(^)))(chevrolet)(?=(($)|(\s)))(-*-)onyx_lorenzoni
+(?<=((\s)|(^)))(carro gm)(?=(($)|(\s)))(-*-)onyx_lorenzoni
+(?<=((\s)|(^)))(chuveiro eletrico)(?=(($)|(\s)))(-*-)onyx_lorenzoni
+(?<=((\s)|(^)))(chuveiro)(?=(($)|(\s)))(-*-)onyx_lorenzoni
+(?<=((\s)|(^)))(@onyxlorenzoni)(?=(($)|(\s)))(-*-)onyx_lorenzoni
+(?<=((\s)|(^)))(edegar pretto)(?=(($)|(\s)))(-*-)edegar_pretto
+(?<=((\s)|(^)))(pretto)(?=(($)|(\s)))(-*-)edegar_pretto
+(?<=((\s)|(^)))(edegar)(?=(($)|(\s)))(-*-)edegar_pretto
+(?<=((\s)|(^)))(@edegarpretto)(?=(($)|(\s)))(-*-)edegar_pretto
+(?<=((\s)|(^)))(luis carlos heinze)(?=(($)|(\s)))(-*-)heinze
+(?<=((\s)|(^)))(heinze)(?=(($)|(\s)))(-*-)heinze
+(?<=((\s)|(^)))(@heinzeoficial)(?=(($)|(\s)))(-*-)heinze
+(?<=((\s)|(^)))(roberto argenta)(?=(($)|(\s)))(-*-)argenta
+(?<=((\s)|(^)))(argenta)(?=(($)|(\s)))(-*-)argenta
+(?<=((\s)|(^)))(vieira da cunha)(?=(($)|(\s)))(-*-)vieira
+(?<=((\s)|(^)))(vieira)(?=(($)|(\s)))(-*-)vieira
+(?<=((\s)|(^)))(@vieirapdt)(?=(($)|(\s)))(-*-)vieira
+(?<=((\s)|(^)))(vicente bogo)(?=(($)|(\s)))(-*-)bogo
+(?<=((\s)|(^)))(bogo)(?=(($)|(\s)))(-*-)bogo
+(?<=((\s)|(^)))(@vicentebogo)(?=(($)|(\s)))(-*-)bogo
 (?<=((\s)|(^)))(porto alegre)(?=(($)|(\s)))(-*-)porto_alegre
 (?<=((\s)|(^)))(poa)(?=(($)|(\s)))(-*-)porto_alegre
