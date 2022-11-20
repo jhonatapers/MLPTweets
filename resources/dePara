@@ -35,4 +35,28 @@
 (?<=((\s)|(^)))(bogo)(?=(($)|(\s)))(-*-)bogo
 (?<=((\s)|(^)))(@vicentebogo)(?=(($)|(\s)))(-*-)bogo
 (?<=((\s)|(^)))(porto alegre)(?=(($)|(\s)))(-*-)porto_alegre
+(?<=((\s)|(^)))(rio grande do sul)(?=(($)|(\s)))(-*-)rio_grande_do_sul
+(?<=((\s)|(^)))(rs)(?=(($)|(\s)))(-*-)rio_grande_do_sul
+(?<=((\s)|(^)))(rio grande)(?=(($)|(\s)))(-*-)rio_grande
 (?<=((\s)|(^)))(poa)(?=(($)|(\s)))(-*-)porto_alegre
+(?<=((\s)|(^)))(@ricardojobim30)(?=(($)|(\s)))(-*-)ricardo_jobim
+(?<=((\s)|(^)))(candidato novo)(?=(($)|(\s)))(-*-)ricardo_jobim
+(?<=((\s)|(^)))(ricardo jobim)(?=(($)|(\s)))(-*-)ricardo_jobim
+(?<=((\s)|(^)))(jair bolsonaro)(?=(($)|(\s)))(-*-)jair_bolsonaro
+(?<=((\s)|(^)))(@jairbolsonaro)(?=(($)|(\s)))(-*-)jair_bolsonaro
+(?<=((\s)|(^)))(bolsonaro)(?=(($)|(\s)))(-*-)jair_bolsonaro
+(?<=((\s)|(^)))(@vieirapdt)(?=(($)|(\s)))(-*-)vieira_cunha
+(?<=((\s)|(^)))(vieira)(?=(($)|(\s)))(-*-)vieira_cunha
+(?<=((\s)|(^)))(vieira da cunha)(?=(($)|(\s)))(-*-)vieira_cunha
+(?<=((\s)|(^)))(cunha)(?=(($)|(\s)))(-*-)vieira_cunha
+(?<=((\s)|(^)))(@heinzeoficial)(?=(($)|(\s)))(-*-)heinze
+(?<=((\s)|(^)))(heinz)(?=(($)|(\s)))(-*-)heinze
+(?<=((\s)|(^)))(luis carlos heinze)(?=(($)|(\s)))(-*-)heinze
+(?<=((\s)|(^)))(luis c heinze)(?=(($)|(\s)))(-*-)heinze
+(?<=((\s)|(^)))(luiz carlos heinze)(?=(($)|(\s)))(-*-)heinze
+(?<=((\s)|(^)))(ketchup)(?=(($)|(\s)))(-*-)heinze
+(?<=((\s)|(^)))(@lulaoficial)(?=(($)|(\s)))(-*-)lula
+(?<=((\s)|(^)))(@lula)(?=(($)|(\s)))(-*-)lula
+(?<=((\s)|(^)))(@tarsogenro)(?=(($)|(\s)))(-*-)tarso_genro
+(?<=((\s)|(^)))(tarso genro)(?=(($)|(\s)))(-*-)tarso_genro
+(?<=((\s)|(^)))(tarso)(?=(($)|(\s)))(-*-)tarso_genro
