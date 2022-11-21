@@ -1,0 +1,12 @@
+pandas
+unidecode
+regex
+spacy
+nltk
+plotly==5.11.0
+matplotlib
+scikit-learn
+seaborn
+openpyxl
+nbformat
+ipython
